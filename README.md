@@ -1,2 +1,2 @@
 # Jss
-İleri Programlama Kaynak Dosyaları
+İleri Programlama Javascript Kaynak Dosyaları
